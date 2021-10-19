@@ -7,4 +7,4 @@ Backlight,
 Trackpad, 
 Battery management
 
-I will update as if I figure out.
+I will update once I figure it out.
