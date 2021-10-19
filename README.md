@@ -8,3 +8,5 @@ Trackpad,
 Battery management
 
 I will update once I figure it out.
+
+I moved on to Monterey
